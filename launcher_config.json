@@ -36,7 +36,7 @@
 
   "cache": {
     "enabled": true,
-    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
+    "api_url": "https://raw.githubusercontent.com/SigmaMonent/11/refs/heads/main/api.json",
     "files_url": "http://185.231.155.225/Brilliant"
   },
 
